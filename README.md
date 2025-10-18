@@ -88,8 +88,31 @@ SimpleHillClimbing()
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
 <img width="660" height="384" alt="image" src="https://github.com/user-attachments/assets/def4835d-5c59-48b8-abb1-c81d7d7201d4" />
+
+
+
+
 ................................
+
+
+
+
+
+
+
+
 ................................
+
+
+
+
+
+
+
+
+
+
+
 <img width="591" height="632" alt="image" src="https://github.com/user-attachments/assets/d3afcd2e-6534-4e4a-a9e5-87a9165494db" />
 
 <h2>RESULT:</h2>
